@@ -47,10 +47,8 @@ Nunca olvides cerrar ficheros para evitar problemas en tu aplicación o videojue
 Existe un método que devuelve un valor _boolean_, determinando si en la ruta especificada existe o no un fichero. A partir de ese resultado, tomamos acción.
 
 ```py
-if (fichero.file_exists("rutaFichero"))
-{
+if fichero.file_exists("rutaFichero"):
     leyendoDatosDeFichero()
-}
 ```
 
 ---
