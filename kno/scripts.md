@@ -141,6 +141,16 @@ for item in listaDatos:
 
 Próximamente...
 
+## Nodos y la programación
+
+¿Por qué hace falta programar en esta _engine_? ¿Por qué aprender su lenguaje de programación? Los nodos no tienen funcionamiento propio más allá del que se le ha definido por tipo. Un nodo de caja de texto o `EditText` está preparado para recibir el texto que introduzcamos por teclado, pero nada más aparte de eso.
+
+Como bien aparece en la documentación oficial de Godot, un nodo es...
+
+![La verdad sobre los nodos](http://docs.godotengine.org/en/stable/_images/brainslug.jpg)
+
+Si queremos que operen de forma diferente, que proyecten animaciones en movimiento, que se guarde nuestra partida... es necesario inculcarles un código a ejecutar para lograr los efectos deseados.
+
 ---
 #### :house: [Volver a inicio](../README.md)
 #### ← [Página anterior, nodos](nodos.md)
