@@ -8,7 +8,7 @@ A través de esta estructura de árboles (o raíces, ya que los nodos cuelgan ha
 
 Existen nodos de diferentes tipos, como los que hemos menciondo anteriormente como ejemplos, y que cuentan con diferentes características. Posición, transparencia, colores... que pueden ser modificables. Algunas de estas características o propiedades son relativas al nodo desde el cual cuelga el nodo en cuestión.
 
-Los nodos tienen nombre, tienen sus características, sirven para muchos propósitos
+Los nodos tienen nombre, tienen sus características, sirven para muchos propósitos. Una vez empieces a manejar tus propios proyectos, es posible que [esta guía sobre nodos](https://i.imgur.com/JDUcBiE.jpg) te sea útil. ¡No te pierdas entre nodos!
 
 ## Escenas
 
