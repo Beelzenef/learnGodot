@@ -49,6 +49,6 @@ Se nos pedirá que seleccionemos una escena principal, y de momento será la ún
 De forma sencilla, hemos creado nuestro primer proyecto, nuestra primer código y nuestras primeras acciones con la _engine_.
 
 ---
-#### :house: [Volver a inicio](../README.md)
+#### [Volver a inicio](../README.md)
 #### ← [Página anterior, _scripting_](scripts.md)
 #### [Siguiente página, aleatoriedad](random.md) →

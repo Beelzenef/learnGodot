@@ -16,5 +16,5 @@ Aquí iremos descubriendo poco a poco sus secretos hasta poder dar vida a nuestr
 ¡Que comience el _gamedev_!
 
 ---
-#### :house: [Volver a inicio](../README.md)
+#### [Volver a inicio](../README.md)
 #### [Siguiente página, nodos](nodos.md) →

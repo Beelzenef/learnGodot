@@ -152,6 +152,6 @@ Como bien aparece en la documentación oficial de Godot, un nodo es...
 Si queremos que operen de forma diferente, que proyecten animaciones en movimiento, que se guarde nuestra partida... es necesario inculcarles un código a ejecutar para lograr los efectos deseados.
 
 ---
-#### :house: [Volver a inicio](../README.md)
+#### [Volver a inicio](../README.md)
 #### ← [Página anterior, nodos](nodos.md)
 #### [Siguiente página, eventos](eventos.md) →
