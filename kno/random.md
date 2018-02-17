@@ -34,6 +34,6 @@ rand_seed(numeroBase)
 ```
 
 ---
-#### :house: [Volver a inicio](../README.md)
+#### [Volver a inicio](../README.md)
 #### ← [Página anterior, eventos](eventos.md)
 #### [Siguiente página, ficheros](ficheros.md) →

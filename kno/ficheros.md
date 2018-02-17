@@ -52,6 +52,6 @@ if fichero.file_exists("rutaFichero"):
 ```
 
 ---
-#### :house: [Volver a inicio](../README.md)
+#### [Volver a inicio](../README.md)
 #### ← [Página anterior, aleatoriedad](random.md)
 #### [Siguiente página, animaciones](animaciones.md) →

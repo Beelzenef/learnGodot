@@ -37,6 +37,6 @@ Cuando en la sección de _Scene_ seleccionas _New node_, aparece este cuadro de 
 Podemos ver los diferentes iconos, nombres... y las diferentes funcionalidades que podemos llegar a tener.
 
 ---
-#### :house: [Volver a inicio](../README.md)
+#### [Volver a inicio](../README.md)
 #### ← [Página anterior, introducción](intro.md)
 #### [Siguiente página, _scripting_](scripts.md) →
