@@ -7,6 +7,10 @@ Si quieres explorar su comunidad, puedes explorar algunos de estos enlaces:
 * [r/godot, comunidad en Reddit]()
 * [Godot Engine en español, grupo en Facebook](https://www.facebook.com/groups/771679136238312/)
 
+Y si buscas tutoriales de todo tipo:
+
+* [lehast22.github.io](https://lehast22.github.io)
+
 Tiene a su vez un lenguaje de _scripting_ muy similar a Python en su sintaxis, GDScript, que si somos familiares al desarrollo de aplicaciones será muy fácil de aprender.
 
 Con una estructura de proyectos basada en nodos, iniciar el desarrollo de un nuevo juego es muy sencillo.
