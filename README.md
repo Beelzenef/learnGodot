@@ -13,6 +13,9 @@ Aprendiendo Godot
 * [Aleatoriedad](kno/random.md)
 * [Ficheros](kno/ficheros.md)
 * [Animaciones](kno/animaciones.md)
+* [Cámaras](kno/cameras.md)
+* [Controles UI](kno/ui.md)
+* [_Inputs_](kno/inputs.md)
 
 ## Enlaces
 
