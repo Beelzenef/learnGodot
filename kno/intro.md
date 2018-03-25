@@ -10,6 +10,7 @@ Si quieres explorar su comunidad, puedes explorar algunos de estos enlaces:
 Y si buscas tutoriales de todo tipo:
 
 * [lehast22.github.io](https://lehast22.github.io)
+* [Indie Libre](https://indielibre.com.ve)
 
 Tiene a su vez un lenguaje de _scripting_ muy similar a Python en su sintaxis, GDScript, que si somos familiares al desarrollo de aplicaciones será muy fácil de aprender.
 
