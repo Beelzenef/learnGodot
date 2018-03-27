@@ -9,8 +9,10 @@ func _ready():
 	set_process(true)
 
 func _process(delta):
-	set_pos(get_node(../player).get_pos())
+	set_pos(get_node("../player").get_pos())
 ```
+
+Este código corresponde a Godot Engine 2.X
 
 ---
 #### [Volver a inicio](../README.md)
