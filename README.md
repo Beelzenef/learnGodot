@@ -22,3 +22,7 @@ Aprendiendo Godot
 * [Descarga Godot](https://godotengine.org/download)
 * [Documentación oficial](http://docs.godotengine.org/en/stable/)
 * [Referencia a GDScript](http://docs.godotengine.org/en/stable/learning/scripting/gdscript/gdscript_basics.html)
+
+### Otros
+
+[Mis vídeos con Godot](https://www.youtube.com/playlist?list=PLz3IIrEL4x8FRBlUVigjVT-v2NzgsqNuL)
