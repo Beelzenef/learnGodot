@@ -17,3 +17,4 @@ set_pos(posMouse)
 ---
 #### [Volver a inicio](../README.md)
 #### ← [Página anterior, controles UI](ui.md)
+#### [Siguiente página, colisiones](colisiones.md) →

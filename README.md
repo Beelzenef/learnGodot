@@ -16,6 +16,7 @@ Aprendiendo Godot
 * [Cámaras](kno/cameras.md)
 * [Controles UI](kno/ui.md)
 * [_Inputs_](kno/inputs.md)
+* [Colisiones y destrucción de nodos](kno/colisiones.md)
 
 ## Enlaces
 
