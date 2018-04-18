@@ -56,4 +56,4 @@ Por supuesto, _body_ nos permite acceder al nodo del jugador, a todos sus métod
 
 ---
 #### [Volver a inicio](../README.md)
-#### ← [Página anterior, controles UI](ui.md)
+#### ← [Página anterior, _inputs_](ui.md)
