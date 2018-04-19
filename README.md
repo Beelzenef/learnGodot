@@ -1,4 +1,4 @@
-# blueGodot
+# _learn Godot_
 
 Aprendiendo Godot
 
@@ -23,6 +23,13 @@ Aprendiendo Godot
 * [Descarga Godot](https://godotengine.org/download)
 * [Documentación oficial](http://docs.godotengine.org/en/stable/)
 * [Referencia a GDScript](http://docs.godotengine.org/en/stable/learning/scripting/gdscript/gdscript_basics.html)
+
+---
+
+NOVEDAD, abril 2018: traducción de la documentación oficial abierta a la comunidad:
+
+* [Artículo oficial](https://godotengine.org/article/godots-documentation-now-open-translation)
+* [Documentación alojada en HostedWeblate](https://hosted.weblate.org/projects/godot-engine/godot/)
 
 ### Otros
 
