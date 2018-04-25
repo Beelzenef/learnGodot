@@ -50,7 +50,7 @@ func _physics_process(delta):
 	move_and_slide(movimiento)
 	
 	pass
-```py
+```
 
 ---
 #### [Volver a inicio](../README.md)
