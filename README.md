@@ -33,4 +33,5 @@ NOVEDAD, abril 2018: traducción de la documentación oficial abierta a la comun
 
 ### Otros
 
-[Mis vídeos con Godot](https://www.youtube.com/playlist?list=PLz3IIrEL4x8FRBlUVigjVT-v2NzgsqNuL)
+* [Foro no oficial de Godot en español](https://www.forogodot.org/index.php)
+* [Mis vídeos con Godot](https://www.youtube.com/playlist?list=PLz3IIrEL4x8FRBlUVigjVT-v2NzgsqNuL)
