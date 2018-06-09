@@ -51,21 +51,21 @@ Las funciones son fragmentos de código que puede ser invocados para su ejecuci�
 
 Una declaración de una función sencilla puede ser, sin parámetros y devolviendo un número entero:
 
-```py
+```gd
 func unaFuncion():
 	return 0
 ```
 
 Existe una función principal, llamada `_ready`, que se ejecuta cuando un nodo y todos sus hijos entran en la escena activa. Es como si el nodo "despertase" y ejecutase su código.
 
-```py
+```gd
 func _ready():
 	# Tu código viene aquí :D
 ```
 
 Entonces, una vez tenemos nuestros nodos con su respectivo código, podríamos iniciar el juego de esta forma
 
-```py
+```gd
 func _ready():
 	inicioJuego()
 	nombrarPersonaje()
@@ -150,6 +150,43 @@ Como bien aparece en la documentación oficial de Godot, un nodo es...
 ![La verdad sobre los nodos](http://docs.godotengine.org/en/stable/_images/brainslug.jpg)
 
 Si queremos que operen de forma diferente, que proyecten animaciones en movimiento, que se guarde nuestra partida... es necesario inculcarles un código a ejecutar para lograr los efectos deseados.
+
+## Herencia de _scripts_
+
+En ocasiones, para evitar la duplicación de código, necesitaremos hacer uso de la herencia de _scripts_. Crearemos desde la _tab_ de _scripting_ un nuevo _script_, que no asociaremos a ningún nodo, no tendrá _attachs_.
+
+En lugar de aparecer con la herencia básica en nuestro nuevo script, para asociar a un nodo concreto:
+
+```gd
+extends KinematicBody2D
+```
+
+Elegiremos que tenga con una herencia más concreta:
+
+```gd
+extends "res://scripts/ScriptComun.gd"
+```
+
+Ahora podremos usar las variables definidas en el primer _script_, y sobreescribir sus métodos. Esto último no requiere ninguna indicación especial, solo utilizar el mismo nombre y crear el código que necesitemos.
+
+```gd
+func metodoSobreescrito():
+	print "¡Soy un método sobreescrito!"
+```
+
+## Variables para el IDE
+
+Es posible en Godot crear variables a las que puedes acceder desde el IDE, para asociarle un valor determinado. Es más cómodo y ofrece más velocidad a la hora de ajustar valores necesarios a un nodo, mucho mejor opción que modificar el código constantemente.
+
+Para crear variables accesibles, con un tipo asociado, escribiremos en nuestros _scripts_:
+
+```gd
+export (int) var speed
+export (float) var rotation_speed
+export (int) var health
+```
+
+Ahora prueba a asignar valores hasta encontrar el deseado.
 
 ---
 #### [Volver a inicio](../README.md)

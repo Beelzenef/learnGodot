@@ -17,6 +17,7 @@ Aprendiendo Godot
 * [Controles UI](kno/ui.md)
 * [_Inputs_](kno/inputs.md)
 * [Colisiones y destrucción de nodos](kno/colisiones.md)
+* [Importando nodos y escenas](kno/import.md)
 
 ## Enlaces
 

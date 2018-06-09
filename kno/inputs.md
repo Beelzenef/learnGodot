@@ -2,7 +2,7 @@
 
 Pulsando teclas:
 
-```py
+```gd
 if Input.is_action_pressed("ui_left"):
 	// Acción de pulsar a la izquierda
 ```
@@ -11,7 +11,7 @@ if Input.is_action_pressed("ui_left"):
 
 Obtener posición absoluta del ratón, para utilizarla con un nodo específico:
 
-```py
+```gd
 var posMouse = get_global_mouse_pos()
 set_pos(posMouse)
 ```
@@ -20,7 +20,7 @@ set_pos(posMouse)
 
 Movimiento 2D a través de un Vector2, a velocidad 50, gestionando movimiento en los ejes X e Y.
 
-```py
+```gd
 
 var movimiento
 var velocidad

@@ -12,8 +12,8 @@ var fichero = File.new()
 
 Si vamos a leer el texto de un fichero, podemos almacenarlo en una variable, o cualquier otra acción necesaria.
 
-```py
-var textoLeido;
+```gd
+var textoLeido
 
 fichero.open("rutaFichero", fichero.READ)
 textoLeido = fichero.get_as_text()
