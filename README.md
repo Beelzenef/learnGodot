@@ -12,12 +12,19 @@ Aprendiendo Godot
 * [Eventos](kno/eventos.md)
 * [Aleatoriedad](kno/random.md)
 * [Ficheros](kno/ficheros.md)
+
+### 2D
+
 * [Animaciones](kno/animaciones.md)
 * [Cámaras](kno/cameras.md)
 * [Controles UI](kno/ui.md)
 * [_Inputs_](kno/inputs.md)
 * [Colisiones y destrucción de nodos](kno/colisiones.md)
 * [Importando nodos y escenas](kno/import.md)
+
+### 3D
+
+¡Próximamente!
 
 ## Enlaces
 
