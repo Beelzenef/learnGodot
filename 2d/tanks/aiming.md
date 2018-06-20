@@ -54,3 +54,7 @@ func _process(delta):
 		var current_dir = Vector2(1, 0).rotated($Turret.global_rotation)
 		$Turret.global_rotation = current_dir.linear_interpolate(target_dir, turret_speed * delta).angle()
 ```
+
+---
+#### [Volver a inicio](../../README.md)
+#### ← [Página anterior, introducción al proyecto](tanks.md)

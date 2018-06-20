@@ -157,19 +157,23 @@ En ocasiones, para evitar la duplicación de código, necesitaremos hacer uso de
 
 En lugar de aparecer con la herencia básica en nuestro nuevo script, para asociar a un nodo concreto:
 
-```gd
+```py
 extends KinematicBody2D
 ```
 
-Elegiremos que tenga con una herencia más concreta:
+Elegiremos que tenga con una herencia más concreta, desde el mismo creador de _scripts_.
 
-```gd
+![](imgs/inherits.png)
+
+En el nuevo _script_, se reflejará la herencia de este modo, en la primera línea:
+
+```py
 extends "res://scripts/ScriptComun.gd"
 ```
 
 Ahora podremos usar las variables definidas en el primer _script_, y sobreescribir sus métodos. Esto último no requiere ninguna indicación especial, solo utilizar el mismo nombre y crear el código que necesitemos.
 
-```gd
+```py
 func metodoSobreescrito():
 	print "¡Soy un método sobreescrito!"
 ```
@@ -180,7 +184,7 @@ Es posible en Godot crear variables a las que puedes acceder desde el IDE, para 
 
 Para crear variables accesibles, con un tipo asociado, escribiremos en nuestros _scripts_:
 
-```gd
+```py
 export (int) var speed
 export (float) var rotation_speed
 export (int) var health

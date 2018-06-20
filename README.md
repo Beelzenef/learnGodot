@@ -1,4 +1,4 @@
-# _learn Godot_
+# _learnGodot_
 
 Aprendiendo Godot
 
@@ -6,25 +6,27 @@ Aprendiendo Godot
 
 ## Contenidos
 
-* [Introducción a la _engine_](kno/intro.md)
-* [Nodos y estructura](kno/nodos.md)
-* [_Scripting_, estructuras de programación](kno/scripts.md)
-* [Eventos](kno/eventos.md)
-* [Aleatoriedad](kno/random.md)
-* [Ficheros](kno/ficheros.md)
+* [Introducción a la _engine_](2d/intro.md)
+* [Nodos y estructura](2d/nodos.md)
+* [_Scripting_, estructuras de programación](2d/scripts.md)
+* [Eventos](2d/eventos.md)
+* [Aleatoriedad](2d/random.md)
+* [Ficheros](2d/ficheros.md)
 
 ### 2D
 
-* [Animaciones](kno/animaciones.md)
-* [Cámaras](kno/cameras.md)
-* [Controles UI](kno/ui.md)
-* [_Inputs_](kno/inputs.md)
-* [Colisiones y destrucción de nodos](kno/colisiones.md)
-* [Importando nodos y escenas](kno/import.md)
+* [Animaciones](2d/animaciones.md)
+* [Cámaras](2d/cameras.md)
+* [Controles UI](2d/ui.md)
+* [_Inputs_](2d/inputs.md)
+* [Colisiones y destrucción de nodos](2d/colisiones.md)
+* [Importando nodos y escenas](2d/import.md)
+
+#### [Proyecto _onceUponATank_](2d/tanks/tanks.md)
 
 ### 3D
 
-¡Próximamente!
+* [Introducción al 3D](3d/intro.md)
 
 ## Enlaces
 

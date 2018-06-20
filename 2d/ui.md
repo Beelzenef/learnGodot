@@ -4,11 +4,11 @@ Los controles UI hacen una interfaz gráfica para nuestros juegos, con los que i
 
 Existen muchos, todos ellos nodos que podemos añadir a nuestros juegos:
 
-* Label, para mostrar textos
-* TextureRect, para fondos o cualquier cosa que necesite una imagen estática
-* TextureProgress, para barras de vida, carga... ya sean horizontales, verticales o circulares
-* NinePatchRect, paneles escalables
-* TextureButton, para crear botones
+* `Label`, para mostrar textos
+* `TextureRect`, para fondos o cualquier cosa que necesite una imagen estática
+* `TextureProgress`, para barras de vida, carga... ya sean horizontales, verticales o circulares
+* `NinePatchRect`, paneles escalables
+* `TextureButton`, para crear botones
 
 ![](http://docs.godotengine.org/en/3.0/_images/five_most_common_nodes.png)
 

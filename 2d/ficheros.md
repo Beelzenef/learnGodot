@@ -12,7 +12,7 @@ var fichero = File.new()
 
 Si vamos a leer el texto de un fichero, podemos almacenarlo en una variable, o cualquier otra acción necesaria.
 
-```gd
+```py
 var textoLeido
 
 fichero.open("rutaFichero", fichero.READ)
