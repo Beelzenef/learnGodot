@@ -16,8 +16,29 @@ Para leer más sobre ellos, un [enlace a la documentación](http://docs.godoteng
 
 También encontrarás otros para introducir texto:
 
-* RichTextBox
-* TextBox
+* `RichTextBox`
+* `TextBox`
+
+Y cuando necesites interacción desde el otro lado de la pantalla, siempre puedes acudir a:
+
+* `Button`
+* `TextureButton`
+* `Checkbox`
+* `CheckButton`
+* `ColorPickerButton`
+* `ToolButton`
+* `LinkButton`
+* `ToolButton`
+* `OptionButton`
+* `MenuButton`
+
+Para comunicarte con el usuario puedes usar:
+
+* `ConfirmationDialog`
+* `FileDialog`
+* `PopupDialog`
+
+Basta con que te asomes a la sección de `Control` de añadir nuevos nodos, convenientemente señalados en verde. Todo listo para que construyas tu propio sistema de inventario... o no. [Siempre podemos esperar a que lo desarrollen desde GodotEngine](https://twitter.com/reduzio/status/980433952421838848).
 
 ---
 #### [Volver a inicio](../README.md)
