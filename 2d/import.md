@@ -13,4 +13,4 @@ Cuando queramos importar, bastará con seleccionar este botón:
 ---
 #### [Volver a inicio](../README.md)
 #### ← [Página anterior, colisiones](colisiones.md)
-#### [Siguiente página, ???](../README.md) →
+#### [Siguiente página, recogiendo nodos](picknodes.md) →

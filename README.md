@@ -21,6 +21,7 @@ Aprendiendo Godot
 * [_Inputs_](2d/inputs.md)
 * [Colisiones y destrucción de nodos](2d/colisiones.md)
 * [Importando nodos y escenas](2d/import.md)
+* [Recogiendo nodos](2d/picknodes.md)
 
 #### [Proyecto _onceUponATank_](2d/tanks/tanks.md)
 
@@ -33,6 +34,7 @@ Aprendiendo Godot
 * [Descarga Godot](https://godotengine.org/download)
 * [Documentación oficial](http://docs.godotengine.org/en/stable/)
 * [Referencia a GDScript](http://docs.godotengine.org/en/stable/learning/scripting/gdscript/gdscript_basics.html)
+* [Comunidad /r/Godot](https://www.reddit.com/r/godot/)
 
 ---
 
