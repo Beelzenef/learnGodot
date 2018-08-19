@@ -6,12 +6,12 @@ Aprendiendo Godot
 
 ## Contenidos
 
-* [Introducción a la _engine_](2d/intro.md)
-* [Nodos y estructura](2d/nodos.md)
-* [_Scripting_, estructuras de programación](2d/scripts.md)
-* [Eventos](2d/eventos.md)
-* [Aleatoriedad](2d/random.md)
-* [Ficheros](2d/ficheros.md)
+* [Introducción a la _engine_](gd/intro.md)
+* [Nodos y estructura](gd/nodos.md)
+* [_Scripting_, estructuras de programación](gd/scripts.md)
+* [Eventos](gd/eventos.md)
+* [Aleatoriedad](gd/random.md)
+* [Ficheros](gd/ficheros.md)
 
 ### 2D
 
