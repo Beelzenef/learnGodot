@@ -85,6 +85,18 @@ else:
 	print("Último camino")
 ```
 
+También tenemos el bloque _switch_ o _match_, donde podemos evaluar una variable entre posibles valores concretos:
+
+```py
+ match numeroAEvaluar:
+    1:
+		print ("Número 1")
+    2:
+		print ("Número 2")
+	3:
+		print ("Número 3")        
+```
+
 ## Bucles
 
 ### Bucle `WHILE`:
