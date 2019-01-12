@@ -22,6 +22,8 @@ Aprendiendo Godot
 * [Colisiones y destrucción de nodos](2d/colisiones.md)
 * [Importando nodos y escenas](2d/import.md)
 * [Recogiendo nodos](2d/picknodes.md)
+* [`AnimationPlayer`](2d/animationplayer.md)
+* [`AudioStreamPlayer`](2d/audio.md)
 
 #### [Proyecto _onceUponATank_](2d/tanks/tanks.md)
 

@@ -1,4 +1,4 @@
-# Recogiendo nodos
+# Seleccionando nodos
 
 En ocasiones necesitarás seleccionar un nodo. Quizás necesites identificarlo, ver su información, ir hacia él, que este se mueva hacia donde desees... ¿pero cómo hacerlo?
 
@@ -21,3 +21,4 @@ Las condiciones pueden simplificarse o elegir otras, pudiendo ser otro botón.
 ---
 #### [Volver a inicio](../README.md)
 #### ← [Página anterior, importación de escenas y nodos](import.md)
+#### [Página siguiente, `AnimationPlayer`](animationplayer.md)  →
