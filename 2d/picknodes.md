@@ -1,5 +1,23 @@
 # Seleccionando nodos
 
+## Recoge un nodo
+
+Mientras navegas por scripts, es posible que necesites referenciarlo para invocar los métodos que tenga en su _script_ asociado. Cuando lo necesites, escribe:
+
+```py
+var nodo = get_node("ruta/nodoACoger")
+```
+
+La ruta del nodo se basa en la jerarquía de nodos que exista en la escena. Esta puede variar o ser muy compleja, así que estructurala y ordénala convenientemente.
+
+¿Y si quiero eliminar un nodo? El método se basa en la liberación de memoria, así que "liberamos" esa memoria que está ocupando el nodo en cuestión... y desaparecerá. Los nodos son volátiles, algunos pueden desaparecer y reconstruirse constatemente y otros serán perennes, pero no temas eliminar nodos.
+
+```py
+get_node("ruta/nodo").queue_free()
+```
+
+## Selecciona un nodo _in-game_:
+
 En ocasiones necesitarás seleccionar un nodo. Quizás necesites identificarlo, ver su información, ir hacia él, que este se mueva hacia donde desees... ¿pero cómo hacerlo?
 
 Creando un `KinematicBody2D`, asociarás al mismo una `CollisionShape2D` con su respectiva _shape_. Añadirás un _sprite_ para poder visualizarlo, e incluso otro más como una caja de selección, dependiendo de cuantas veces hagas _click_ sobre el nodo.
