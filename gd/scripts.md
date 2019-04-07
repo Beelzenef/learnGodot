@@ -2,6 +2,13 @@
 
 GDScript es el lenguaje oficial de _scripting_ para Godot _engine_, y que vamos a conocer a grandes rasgos aquí. Siempre podéis consultar [la documentación oficial](http://docs.godotengine.org/en/stable/learning/scripting/gdscript/gdscript_basics.html) para resolver vuestras dudas.
 
+**Actualización desde 13/Marzo/2019:** Algunos cambios se han introducido en la [versión 3.1](https://godotengine.org/article/godot-3-1-released), como por ejemplo:
+
+* [Identificar _scripts_ como Clases](http://docs.godotengine.org/en/latest/getting_started/step_by_step/scripting_continued.html#register-scripts-as-classes)
+* [Tipado opcional en Gdscript](https://godotengine.org/article/godot-3-1-released#gdscript-typing)
+
+Y más cambios que puedes ver [en el _changelog_](https://github.com/godotengine/godot/blob/3.1-stable/CHANGELOG.md)
+
 ¡Empezamos!
 
 ## Variables
