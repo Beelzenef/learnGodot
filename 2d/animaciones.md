@@ -2,7 +2,7 @@
 
 Las animaciones son imágenes divididas en _frames_ para simular el movimiento de nuestros personajes, objetos y demás en el juego. En universos 2D, se realizan mediante _sprites_.
 
-Generaremos, dependiendo 
+Generaremos, dependiendo de las necesidades de nuestro proyecto, tantas animaciones como necesitemos para nuestros personajes:
 
 * _Idle_, para un objeto que no se mueve, permaneciendo estático.
 * Movimiento, caminar o correr, si es que puede hacer cualquiera de las dos acciones.
@@ -18,6 +18,9 @@ set_scale(Vector2(-X, -Y))
 ```
 
 ---
-#### [Volver a inicio](../README.md)
-#### ← [Página anterior, ficheros](ficheros.md)
-#### [Siguiente página, cámaras](cameras.md) →
+
+## [Volver a inicio](../README.md)
+
+## ← [Página anterior, ficheros](ficheros.md)
+
+## [Siguiente página, cámaras](cameras.md) →

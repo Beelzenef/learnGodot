@@ -6,11 +6,14 @@ En este caso, el nodo padre de la escena será el `KinematicBody` o el `Area2D`.
 
 Cuando queramos importar, bastará con seleccionar este botón:
 
-![](http://codetuto.com/wp-content/uploads/2017/01/instancing-a-child.png)
+![Instancing a child](http://codetuto.com/wp-content/uploads/2017/01/instancing-a-child.png)
 
 ... y elegir la escena. La escena que hemos importado, con sus nodos, serán visualizados en la jerarquía con un icono especial (como una claqueta de cine) que te llevará a la escena a la que pertenecen esos nodos.
 
 ---
-#### [Volver a inicio](../README.md)
-#### ← [Página anterior, colisiones](colisiones.md)
-#### [Siguiente página, recogiendo nodos](picknodes.md) →
+
+## [Volver a inicio](../README.md)
+
+## ← [Página anterior, colisiones](colisiones.md)
+
+## [Siguiente página, recogiendo nodos](picknodes.md) →

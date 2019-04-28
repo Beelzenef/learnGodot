@@ -34,7 +34,7 @@ Los arrays son listas de datos de diferentes tipos, que podemos recorrer, consul
 
 ```py
 var listaDatos = ["Godot", 34, 13.4, true, "otro dato", 3]
-``` 
+```
 
 Los diccionarios son más complejos, pero en resumidas cuentas es una lista de pares clave-valor. En todas sus posiciones, encuentras una clave o identificador, asociado a un valor. Se declaran:
 
@@ -46,7 +46,7 @@ Así podremos acceder a los diferentes valores, como el nombre, la salud o el ma
 
 En el futuro conoceremos otros muchos tipos de datos más complejos, pero que no resultan necesarios ahora.
 
-También podemos declarar constantes, nombres para valores que no cambiarán nunca durante la ejecución de nuestro 
+También podemos declarar constantes, nombres para valores que no cambiarán nunca durante la ejecución de nuestro programa.
 
 ```py
 const numeroPI = 3.1416
@@ -60,23 +60,23 @@ Una declaración de una función sencilla puede ser, sin parámetros y devolvien
 
 ```gd
 func unaFuncion():
-	return 0
+    return 0
 ```
 
 Existe una función principal, llamada `_ready`, que se ejecuta cuando un nodo y todos sus hijos entran en la escena activa. Es como si el nodo "despertase" y ejecutase su código.
 
 ```gd
 func _ready():
-	# Tu código viene aquí :D
+    # Tu código viene aquí :D
 ```
 
 Entonces, una vez tenemos nuestros nodos con su respectivo código, podríamos iniciar el juego de esta forma
 
 ```gd
 func _ready():
-	inicioJuego()
-	nombrarPersonaje()
-	saludarAPersonaje(nombre)
+    inicioJuego()
+    nombrarPersonaje()
+    saludarAPersonaje(nombre)
 ```
 
 ## Estructuras condicionales
@@ -85,11 +85,11 @@ Las estructuras condicionales, básicas y eternas para los lenguajes, se formula
 
 ```py
 if 1 > 2:
-	print("Primer camino")
+    print("Primer camino")
 elif 2 > 3:
-	print("Segundo camino")
+    print("Segundo camino")
 else:
-	print("Último camino")
+    print("Último camino")
 ```
 
 También tenemos el bloque _switch_ o _match_, donde podemos evaluar una variable entre posibles valores concretos:
@@ -97,25 +97,25 @@ También tenemos el bloque _switch_ o _match_, donde podemos evaluar una variabl
 ```py
  match numeroAEvaluar:
     1:
-		print ("Número 1")
+        print ("Número 1")
     2:
-		print ("Número 2")
-	3:
-		print ("Número 3")        
+        print ("Número 2")
+    3:
+        print ("Número 3")
 ```
 
 ## Bucles
 
-### Bucle `WHILE`:
+### Bucle `WHILE`
 
 Este bucle se ejecuta mientras la condición expuesta en su declaración sea cierta. Si se rompe, saldrá del bucle.
 
 ```py
 while (true):
-	print("¡Bucle infinito!")
+    print("¡Bucle infinito!")
 ```
 
-### Bucle `FOR`:
+### Bucle `FOR`
 
 Este bucle tiene un componente numérico, donde se espera que empiece en un valor inicial y finalice en el final, aumentando a cada vuelta en un número que también puede ser especificado.
 
@@ -123,37 +123,37 @@ Para empezar, un simple bucle que viaja desde 0 a 10:
 
 ```py
 for i in range(10):
-	print i
+    print i
 ```
 
 Este será un bucle que avance desde 1 a 10, aumentando en uno a cada vuelta de bucle. Similar al anterior, pero especificando en qué valor se inicia el bucle.
 
 ```py
 for i in range(1, 10):
-	print i
+    print i
 ```
 
 Ahora un bucle `FOR` que avance desde 4 a 20, aumentando en 2 a cada vuelta de bucle:
 
 ```py
 for i in range(4, 20, 2):
-	print i
+    print i
 ```
 
 Y también es posible que ocurra a la inversa, empezando en 10 hasta 0:
 
 ```py
 for i in range(10, 0, 2):
-	print i
+    print i
 ```
 
-### Bucle `FOREACH`:
+### Bucle `FOREACH`
 
 Este tipo de bucle está orientado a listas de datos, como los _arrays_, pero sin tener en cuenta sus posiciones. Un ejemplo de su declaración:
 
 ```py
 for item in listaDatos:
-	print(item)
+    print(item)
 ```
 
 ## Programación Orientada a Objetos
@@ -182,7 +182,7 @@ extends KinematicBody2D
 
 Elegiremos que tenga con una herencia más concreta, desde el mismo creador de _scripts_.
 
-![](imgs/inherits.png)
+![Herencia de scripts](imgs/inherits.png)
 
 En el nuevo _script_, se reflejará la herencia de este modo, en la primera línea:
 
@@ -194,7 +194,7 @@ Ahora podremos usar las variables definidas en el primer _script_, y sobreescrib
 
 ```py
 func metodoSobreescrito():
-	print "¡Soy un método sobreescrito!"
+    print "¡Soy un método sobreescrito!"
 ```
 
 ## Variables para el IDE
@@ -212,6 +212,9 @@ export (int) var health
 Ahora prueba a asignar valores hasta encontrar el deseado.
 
 ---
-#### [Volver a inicio](../README.md)
-#### ← [Página anterior, nodos](nodos.md)
-#### [Siguiente página, eventos](eventos.md) →
+
+### [Volver a inicio](../README.md)
+
+### ← [Página anterior, nodos](nodos.md)
+
+### [Siguiente página, eventos](eventos.md) →

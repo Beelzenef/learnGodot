@@ -16,7 +16,7 @@ La ruta del nodo se basa en la jerarquía de nodos que exista en la escena. Esta
 get_node("ruta/nodo").queue_free()
 ```
 
-## Selecciona un nodo _in-game_:
+## Selecciona un nodo _in-game_
 
 En ocasiones necesitarás seleccionar un nodo. Quizás necesites identificarlo, ver su información, ir hacia él, que este se mueva hacia donde desees... ¿pero cómo hacerlo?
 
@@ -37,6 +37,9 @@ Si llega un evento, es un evento del ratón, es el botón izquierdo del ratón y
 Las condiciones pueden simplificarse o elegir otras, pudiendo ser otro botón.
 
 ---
-#### [Volver a inicio](../README.md)
-#### ← [Página anterior, importación de escenas y nodos](import.md)
-#### [Página siguiente, `AnimationPlayer`](animationplayer.md)  →
+
+## [Volver a inicio](../README.md)
+
+## ← [Página anterior, importación de escenas y nodos](import.md)
+
+## [Página siguiente, `AnimationPlayer`](animationplayer.md)  →

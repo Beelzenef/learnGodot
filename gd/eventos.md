@@ -6,7 +6,7 @@ Los eventos en una _engine_ son acciones, generalmente producidas por la persona
 
 Estos eventos pueden ser "capturados", expresión que se repite en otros lenguajes y en otros entornos de programación. Por capturar entendemos que, cuando usuario pulsa un botón, el programa lo percibe y actúa en consecuencia.
 
-## ¿Cómo capturar eventos?
+## Capturando eventos
 
 Vamos a realizar un sencillo ejemplo en el que podemos poner en práctica alguna de las lecciones aprendidas.
 
@@ -36,12 +36,12 @@ extends Node
 var nVeces = 0
 
 func _ready():
-	pass
+    pass
 
 func _on_btn_Unico_pressed():
-	nVeces = nVeces + 1
-	get_node("Label").set_text(String(nVeces))
-	print("hey")
+    nVeces = nVeces + 1
+    get_node("Label").set_text(String(nVeces))
+    print("hey")
 ```
 
 Se nos pedirá que seleccionemos una escena principal, y de momento será la única que tenemos en nuestro proyecto.
@@ -49,6 +49,9 @@ Se nos pedirá que seleccionemos una escena principal, y de momento será la ún
 De forma sencilla, hemos creado nuestro primer proyecto, nuestra primer código y nuestras primeras acciones con la _engine_.
 
 ---
-#### [Volver a inicio](../README.md)
-#### ← [Página anterior, _scripting_](scripts.md)
-#### [Siguiente página, aleatoriedad](random.md) →
+
+### [Volver a inicio](../README.md)
+
+### ← [Página anterior, _scripting_](scripts.md)
+
+### [Siguiente página, aleatoriedad](random.md) →

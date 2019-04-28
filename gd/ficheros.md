@@ -8,7 +8,7 @@ Para operar con un fichero, necesitamos crear una instancia de la Clase File que
 var fichero = File.new()
 ```
 
-### Leyendo del fichero
+## Leyendo del fichero
 
 Si vamos a leer el texto de un fichero, podemos almacenarlo en una variable, o cualquier otra acción necesaria.
 
@@ -22,7 +22,7 @@ fichero.close()
 
 Se abre el fichero, se recoge el texto y después se cierra el fichero... ¡recogiendo todo lo que se usa! Recuerda usar el modo `READ` cuando abres el fichero, para indicar al sistema qué harás con él al operar.
 
-### Escribiendo en un fichero:
+### Escribiendo en un fichero
 
 Escribir un fichero puede tomar varias formas. Observa que también se especifica un modo `WRITE` cuando se abre el fichero.
 
@@ -42,7 +42,7 @@ fichero.close()
 
 Nunca olvides cerrar ficheros para evitar problemas en tu aplicación o videojuego.
 
-### Pero... ¿existe el fichero que buscamos?
+### Comprobando la existencia del fichero
 
 Existe un método que devuelve un valor _boolean_, determinando si en la ruta especificada existe o no un fichero. A partir de ese resultado, tomamos acción.
 
@@ -52,6 +52,9 @@ if fichero.file_exists("rutaFichero"):
 ```
 
 ---
+
 #### [Volver a inicio](../README.md)
+
 #### ← [Página anterior, aleatoriedad](random.md)
+
 #### [Siguiente página, animaciones](animaciones.md) →

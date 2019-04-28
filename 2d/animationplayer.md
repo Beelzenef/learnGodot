@@ -13,11 +13,14 @@ Para que funcione adecuadamente, necesitarás activar la animación en el nodo y
 
 ## Llamando a funciones desde Animation Player
 
-#### Enlaces útiles:
+### Enlaces útiles
 
 * [Explicación en GodotDocs](https://docs.godotengine.org/en/3.0/tutorials/animation/introduction_2d.html#advanced-call-func-tracks)
 
 ---
+
 #### [Volver a inicio](../README.md)
+
 #### ← [Página anterior, seleccionar nodos](picknodes.md)
+
 #### [Siguiente página, `AudioStreamPlayer`](audio.md) →

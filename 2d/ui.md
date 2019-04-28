@@ -10,7 +10,7 @@ Existen muchos, todos ellos nodos que podemos añadir a nuestros juegos:
 * `NinePatchRect`, paneles escalables
 * `TextureButton`, para crear botones
 
-![](http://docs.godotengine.org/en/3.0/_images/five_most_common_nodes.png)
+![Five most common nodes](http://docs.godotengine.org/en/3.0/_images/five_most_common_nodes.png)
 
 Para leer más sobre ellos, un [enlace a la documentación](http://docs.godotengine.org/en/3.0/getting_started/step_by_step/ui_introduction_to_the_ui_system.html).
 
@@ -41,6 +41,9 @@ Para comunicarte con el usuario puedes usar:
 Basta con que te asomes a la sección de `Control` de añadir nuevos nodos, convenientemente señalados en verde. Todo listo para que construyas tu propio sistema de inventario... o no. [Siempre podemos esperar a que lo desarrollen desde GodotEngine](https://twitter.com/reduzio/status/980433952421838848).
 
 ---
-#### [Volver a inicio](../README.md)
-#### ← [Página anterior, cámaras](cameras.md)
-#### [Siguiente página, _inputs_](inputs.md) →
+
+## [Volver a inicio](../README.md)
+
+## ← [Página anterior, cámaras](cameras.md)
+
+## [Siguiente página, _inputs_](inputs.md) →

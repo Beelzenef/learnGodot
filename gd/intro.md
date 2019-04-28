@@ -4,7 +4,7 @@ Godot es una _engine_ o motor para desarrollo de videojuegos 2D y 3D, gratuito y
 
 Si quieres explorar su comunidad, puedes explorar algunos de estos enlaces:
 
-* [r/godot, comunidad en Reddit]()
+* [r/godot, comunidad en Reddit](https://reddit.com/r/godot)
 * [Godot Engine en español, grupo en Facebook](https://www.facebook.com/groups/771679136238312/)
 
 Y si buscas tutoriales de todo tipo:
@@ -21,5 +21,7 @@ Aquí iremos descubriendo poco a poco sus secretos hasta poder dar vida a nuestr
 ¡Que comience el _gamedev_!
 
 ---
-#### [Volver a inicio](../README.md)
-#### [Siguiente página, nodos](nodos.md) →
+
+## [Volver a inicio](../README.md)
+
+## [Siguiente página, nodos](nodos.md) →

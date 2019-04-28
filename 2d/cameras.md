@@ -6,15 +6,18 @@ Pero podemos añadir una nueva cámara para una visión local, centrada quizás 
 
 ```py
 func _ready():
-	set_process(true)
+    set_process(true)
 
 func _process(delta):
-	set_pos(get_node("../player").get_pos())
+    set_pos(get_node("../player").get_pos())
 ```
 
 Este código corresponde a Godot Engine 2.X
 
 ---
-#### [Volver a inicio](../README.md)
-#### ← [Página anterior, animaciones](animaciones.md)
-#### [Siguiente página, controles UI](ui.md) →
+
+## [Volver a inicio](../README.md)
+
+## ← [Página anterior, animaciones](animaciones.md)
+
+## [Siguiente página, controles UI](ui.md) →

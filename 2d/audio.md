@@ -2,7 +2,7 @@
 
 Existen tres nodos relacionados con el audio:
 
-```
+```py
 ____ AudioStreamPlayer
     \__ AudioStreamPlayer2D
     \__ AudioStreamPlayer3D
@@ -36,5 +36,7 @@ Global.JumpSFX.play()
 ```
 
 ---
-#### [Volver a inicio](../README.md)
-#### ← [Página anterior, animaciones](animationplayer.md)
+
+## [Volver a inicio](../README.md)
+
+## ← [Página anterior, animaciones](animationplayer.md)

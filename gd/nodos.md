@@ -1,6 +1,6 @@
 # Nodos y estructura de proyectos
 
-## ¿Qué es un nodo?
+## Explicando los nodos
 
 Un nodo es la unidad básica con la que se opera en Godot. Un nodo puede ser una escena, un objeto con colisiones, el mundo sobre el cual se agrupan los niveles de nuestro juego, un _sprite_...
 
@@ -50,7 +50,7 @@ En la parte superior central verás varias pestañas, muy útiles:
 
 Cuando en la sección de _Scene_ seleccionas _New node_, aparece este cuadro de diálogo. Aquí vemos todos los tipos de nodos que podemos añadir a nuestra escena (con diferenciables iconos incluso), incluso con un buscador integrado:
 
-![](http://docs.godotengine.org/en/stable/_images/node_classes.png)
+![Nodes](http://docs.godotengine.org/en/stable/_images/node_classes.png)
 
 Podemos ver los diferentes iconos, nombres... y las diferentes funcionalidades que podemos llegar a tener.
 

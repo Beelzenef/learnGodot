@@ -2,7 +2,7 @@
 
 Los valores aleatorios pueden ser muy valiosos en nuestros proyectos.
 
-### Generando aleatoriedad
+## Generando aleatoriedad
 
 Para generarlos, tenemos un sencillo método que genera un número aleatorio entre un mínimo y un máximo establecido.
 
@@ -19,7 +19,13 @@ Para redondear el resultado obtenido:
 var otroNumero = round(rand_range(minimo, maximo))
 ```
 
-### Semillas
+Y generando un número aleatorio entero:
+
+```py
+var numeroEnteroAleatorio = randi() % (maximo - minimo) + minimo
+```
+
+## Semillas
 
 Los números aleatorios se generan a través de una semilla o _seed_. Por lo que, si necesitamos una nueva semilla para generar aleatoriedad, basta con llamar a:
 
@@ -34,6 +40,9 @@ rand_seed(numeroBase)
 ```
 
 ---
-#### [Volver a inicio](../README.md)
-#### ← [Página anterior, eventos](eventos.md)
-#### [Siguiente página, ficheros](ficheros.md) →
+
+### [Volver a inicio](../README.md)
+
+### ← [Página anterior, eventos](eventos.md)
+
+### [Siguiente página, ficheros](ficheros.md) →

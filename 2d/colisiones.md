@@ -8,7 +8,7 @@ Pero primero vamos a necesitar identificar de forma concreta el nodo o nodos que
 
 Seleccionando el nodo principal de nuestro personaje, acudimos a su Inspector, clicando en la pestaña de _Node_.
 
-![](https://steemitimages.com/0x0/https://res.cloudinary.com/hpiynhbhq/image/upload/v1518861926/brivxfm3l7qgdozloy6q.png)
+![Generando colisiones](https://steemitimages.com/0x0/https://res.cloudinary.com/hpiynhbhq/image/upload/v1518861926/brivxfm3l7qgdozloy6q.png)
 
 Allí verás un botón llamado "Group". Una vez seleccionado, encontrarás una caja de texto en la que puedes añadir Grupos. Añadiendo un grupo al nodo, como por ejemplo "Player", estamos listos para continuar.
 
@@ -55,6 +55,9 @@ Es un código válido para acabar con el personaje jugador si impacta con un ene
 Por supuesto, _body_ nos permite acceder al nodo del jugador, a todos sus métodos y variables... así pues ¡que comience la diversión!
 
 ---
-#### [Volver a inicio](../README.md)
-#### ← [Página anterior, _inputs_](ui.md)
-#### [Siguiente página, importando nodos](import.md) →
+
+### [Volver a inicio](../README.md)
+
+### ← [Página anterior, _inputs_](ui.md)
+
+### [Siguiente página, importando nodos](import.md) →

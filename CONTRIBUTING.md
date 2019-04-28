@@ -15,7 +15,7 @@ If you're making a pull request, please ensure it adheres to the following guide
 5. Use the following format for the commit message: `Add (topic) in ((2||3)D)`.
 6. Use the code and headers formats.
 7. Any new entry should have meaningful content at the time of the addition to this repo.
-    
+  
 ## Code of Conduct
 
 ### Our Pledge
