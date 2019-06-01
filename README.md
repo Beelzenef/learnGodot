@@ -41,6 +41,7 @@ Aprendiendo Godot
 
 * [Comunidad /r/Godot](https://www.reddit.com/r/godot/)
 * [Grupo Godot Engine en español (Facebook)](https://www.facebook.com/profile.php?id=771679136238312)
+* [/r/CreandoConGodot](https://www.reddit.com/r/CreandoConGodot) 
 
 ### Tutoriales
 
