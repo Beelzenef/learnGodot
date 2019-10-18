@@ -36,6 +36,7 @@ Aprendiendo Godot
 * [Descarga Godot](https://godotengine.org/download)
 * [Documentación oficial](http://docs.godotengine.org/en/stable/)
 * [Referencia a GDScript](http://docs.godotengine.org/en/stable/learning/scripting/gdscript/gdscript_basics.html)
+* [Aprendiendo GDScript (ingles)](https://www.youtube.com/watch?v=UcdwP1Q2UlU)
 
 ### Comunidades
 
@@ -63,3 +64,4 @@ NOVEDAD, abril 2018: traducción de la documentación oficial abierta a la comun
 
 * [Foro no oficial de Godot en español](https://www.forogodot.org/index.php)
 * [Mis vídeos con Godot](https://www.youtube.com/playlist?list=PLz3IIrEL4x8FRBlUVigjVT-v2NzgsqNuL)
+* [Godot en Mediavida](https://www.mediavida.com/foro/gamedev/godot-ho-informacion-general-616797)
