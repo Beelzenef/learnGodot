@@ -36,7 +36,6 @@ Aprendiendo Godot
 * [Descarga Godot](https://godotengine.org/download)
 * [Documentación oficial](http://docs.godotengine.org/en/stable/)
 * [Referencia a GDScript](http://docs.godotengine.org/en/stable/learning/scripting/gdscript/gdscript_basics.html)
-* [Aprendiendo GDScript (ingles)](https://www.youtube.com/watch?v=UcdwP1Q2UlU)
 
 ### Comunidades
 
@@ -52,6 +51,9 @@ Aprendiendo Godot
 * [GamesFromScratch (YouTube, inglés)](https://www.youtube.com/user/gamefromscratch)
 * [GdQuest (YouTube, inglés)](https://www.youtube.com/channel/UCxboW7x0jZqFdvMdCFKTMsQ)
 * [KidsCanCode (YouTube, inglés)](https://www.youtube.com/channel/UCNaPQ5uLX5iIEHUCLmfAgKg)
+* [Aprendiendo GDScript (vídeo, ingles)](https://www.youtube.com/watch?v=UcdwP1Q2UlU)
+
+### [Creando videojuegos con Godot Engine, ¿por dónde empiezo?](https://geekstorming.wordpress.com/2019/11/01/creando-videojuegos-con-godot-engine-por-donde-empiezo/)
 
 ---
 
