@@ -51,7 +51,9 @@ Aprendiendo Godot
 * [GamesFromScratch (YouTube, inglés)](https://www.youtube.com/user/gamefromscratch)
 * [GdQuest (YouTube, inglés)](https://www.youtube.com/channel/UCxboW7x0jZqFdvMdCFKTMsQ)
 * [KidsCanCode (YouTube, inglés)](https://www.youtube.com/channel/UCNaPQ5uLX5iIEHUCLmfAgKg)
-* [Aprendiendo GDScript (vídeo, ingles)](https://www.youtube.com/watch?v=UcdwP1Q2UlU)
+* [Aprendiendo GDScript (vídeo, inglés)](https://www.youtube.com/watch?v=UcdwP1Q2UlU)
+* [HeartBeast (YouTube,inglés)](https://www.youtube.com/user/uheartbeast)
+* [Game development center (YouTube, inglés)](https://www.youtube.com/channel/UClseGZiVmeHamsjYmpbiAmQ)
 
 ### [Creando videojuegos con Godot Engine, ¿por dónde empiezo?](https://geekstorming.wordpress.com/2019/11/01/creando-videojuegos-con-godot-engine-por-donde-empiezo/)
 
